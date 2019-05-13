@@ -1,0 +1,9 @@
+.fieldname-TableBlock {
+  background-color: rgba(0, 0, 0, 0.02);
+  // Must be !important to override a more specific rule from Wagtail.
+  padding: 1rem 10em !important;
+
+  & > .field-content {
+    width: 100%;
+  }
+}

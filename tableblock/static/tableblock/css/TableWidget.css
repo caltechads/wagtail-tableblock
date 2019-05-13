@@ -1,0 +1,10 @@
+.fieldname-AirspaceTableBlock {
+  background-color: rgba(0, 0, 0, 0.02);
+  padding: 1rem 10em !important;
+}
+
+.fieldname-AirspaceTableBlock > .field-content {
+  width: 100%;
+}
+
+/*# sourceMappingURL=admin.css.map */
