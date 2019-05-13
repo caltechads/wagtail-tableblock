@@ -5,7 +5,7 @@ setup(
     version='0.0.1',
     description='A robust TableBlock implementation for Wagtail CMS.',
     url='https://github.com/caltechads/wagtail-tableblock',
-    author='Caltech ADS',
+    author='Caltech IMSS ADS',
     author_email='imss-ads-staff@caltech.edu',
     license='GPL-3.0',
     packages=find_packages(exclude=["*.tests", "*.tests.*", "tests.*", "tests"]),
